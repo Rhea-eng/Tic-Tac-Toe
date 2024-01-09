@@ -1,0 +1,15 @@
+.square{
+  width: 10%;
+  /* min-height: 30%; */
+  /* max-height: 30%; */
+  background-color: #008CBA;
+  font-size: 24px;
+  border-radius: 2px;  
+  padding: 30px 50px;
+  /* display: grid; */
+  /* grid-template-columns: 1fr 1fr 1fr; */
+  min-height: 50px;
+  max-width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
